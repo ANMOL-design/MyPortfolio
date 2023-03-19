@@ -32,7 +32,7 @@ function Projects() {
               isBlog={false}
               title="UpLearn"
               description="Uplearn is a full-stack E-Learning platform that serves the educational needs of the weaker section of society and provides quality education. The website is backed by features like a virtual Library, carrier counseling, Ask a Doubt, Learn With Fun, Courses and Lecture on all boards, and My classroom with integrated virtual meeting and notes sharing feature."
-              link="http://anmol-design-uplearn.herokuapp.com/"
+              link="https://agroacers-frontend-84ka.vercel.app/"
             />
           </Col>
 
@@ -42,37 +42,7 @@ function Projects() {
               isBlog={false}
               title="AgroAcers"
               description="AgroAcers is a data-driven full-stack Website platform that makes farming intelligent and empowers farmers to double their income. Farmers can get  crop protection, crop nutrition, seeds, agriculture equipment, and tools which is 300+ product range , 3000+ mandi Rates , weather Information, Govt. Schemes and 100+ blogs which involves able for the farmer's services."
-              link="https://anmol-design-agroacers.herokuapp.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Eduscope}
-              isBlog={false}
-              title="Eduscope"
-              description="A nodejs based application that contains the syllabus of all the courses of B.tech plus 420+ previous year question paper and sample papers for practice. 6th level of Authentication is used to keep the user database secured. Students will benefit from easily access and download the syllabus and relevant materials with eduSCOPE."
-              link="https://eduscope2000.herokuapp.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Ecommerce}
-              isBlog={false}
-              title="iShop"
-              description="iShop is a full-stack Ecommerce website in which electronics products are sold, The website contain Razorpay Payment Gateway Features, Searching and Sorting techniques to find products easily and detailed description of each product. This website helps me to get comfortable in developing single page application and learn the new concepts of React. "
-              link="https://anmol-design-ishop.herokuapp.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="To-DO App"
-              description="ToDo app was created using HTML,CSS and Javascript. TODO List are the lists that we generally use to maintain our day to day tasks that we have to do, with the most important tasks at the top and the least important tasks at the bottom. It is helpful in planning our daily schedules. We can add more tasks any time and delete a task which is completed."
-              link="https://anmol-design.github.io/Todo-UX/"
+              link="https://agroacers-frontend-h7s2guv3l-amandeep362.vercel.app/"
             />
           </Col>
 
@@ -83,6 +53,36 @@ function Projects() {
               title="Blog APP"
               description="The Blog App was created using  React,CSS, NodeJs and Mongodb in this app the blog is fetch from the backend. This is basically a clone of blog website created by Mern Stack contain blogs of food, technology and heath etc.This is completely responsive Website and also use a concept of hooks, redux and routes"
               link="https://anmol-design.github.io/TechnoBlog/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Eduscope}
+              isBlog={false}
+              title="Eduscope"
+              description="A nodejs based application that contains the syllabus of all the courses of B.tech plus 420+ previous year question paper and sample papers for practice. 6th level of Authentication is used to keep the user database secured. Students will benefit from easily access and download the syllabus and relevant materials with eduSCOPE."
+              link="https://github.com/ANMOL-design/EduScope"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Ecommerce}
+              isBlog={false}
+              title="iShop"
+              description="iShop is a full-stack Ecommerce website in which electronics products are sold, The website contain Razorpay Payment Gateway Features, Searching and Sorting techniques to find products easily and detailed description of each product. This website helps me to get comfortable in developing single page application and learn the new concepts of React. "
+              link="https://github.com/ANMOL-design/IShop"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={leaf}
+              isBlog={false}
+              title="To-DO App"
+              description="ToDo app was created using HTML,CSS and Javascript. TODO List are the lists that we generally use to maintain our day to day tasks that we have to do, with the most important tasks at the top and the least important tasks at the bottom. It is helpful in planning our daily schedules. We can add more tasks any time and delete a task which is completed."
+              link="https://anmol-design.github.io/Todo-UX/"
             />
           </Col>
 
