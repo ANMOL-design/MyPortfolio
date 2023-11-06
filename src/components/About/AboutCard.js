@@ -10,7 +10,18 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Anmol Garg </span>
             from <span className="purple"> Yamunanagar, Haryana, India.</span>
-            <br />I am a Full stack Web developer and React Native Developer Having a sufficient Knowledge of Programming . A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
+            <br />I am a Full stack Web developer and Mobile App Developer
+            Having a sufficient Knowledge of Programming languages such as C++,
+            Python, and JavaScript.Furthermore, I am well-versed in utilizing
+            frameworks like React, React Native, and Flutter, supplemented by an
+            introductory understanding of Node.js. Additionally, I have hands-on
+            experience with cloud services, including AWS, Google Cloud, and
+            Firebase.
+            <br />
+            A motivated individual with in-depth knowledge of
+            languages and development tools, seeking a position in a
+            growth-oriented company where I can use my skills to the advantage
+            of the company while having the scope to develop my own skills.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -28,8 +39,8 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "One of the only ways to get out of a tight box is to invent your way out.”
-            &nbsp;&nbsp;
+            "One of the only ways to get out of a tight box is to invent your
+            way out.” &nbsp;&nbsp;
             <span className="blockquote-footer">Jeff Bezos</span>
           </p>
         </blockquote>

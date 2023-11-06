@@ -36,7 +36,7 @@ function About() {
         </Row>
 
         <h1 className="project-heading">
-          Current <strong className="purple"> On</strong> Going
+          <strong className="purple"> My</strong> Company
           <strong className="purple"> Projects</strong>
         </h1>
         <CurrentProjects />

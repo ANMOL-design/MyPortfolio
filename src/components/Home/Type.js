@@ -10,6 +10,7 @@ function Type() {
           "MERN Stack Developer",
           "Python Enthusiast",
           "React Native Developer",
+          "Flutter Developer",
           "Grand Finalist of SIH 2k22"
         ],
         autoStart: true,

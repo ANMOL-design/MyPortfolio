@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML, CSS, JavaScript, React, React Native, NextJS, Python, C++ </b>
+                <b className="purple"> HTML, CSS, JavaScript, React, React Native, Flutter, Python, C++ </b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Machine Learning.
+                  Cloud Services and AR & VR Developement.
                 </b>
               </i>
               <br />

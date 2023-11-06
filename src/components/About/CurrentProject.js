@@ -40,6 +40,29 @@ function CurrentProjects() {
           Merium
         </a>
       </Col>
+    
+      
+      <Col xs={4} md={2} className="tech-icons">
+        <a
+          href="https://www.incasa.ae/?page=main"
+          target={"_blank"}
+          className="tech-icon-anchor"
+          style={{ color: "white" }}
+        >
+          INCASA
+        </a>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <a
+          href="https://www.veducation.world/"
+          target={"_blank"}
+          className="tech-icon-anchor"
+          style={{ color: "white" }}
+        >
+          Veducation
+        </a>
+      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <a
           href="https://github.com/anmol-heliverse"
@@ -50,6 +73,7 @@ function CurrentProjects() {
           InstaSleb
         </a>
       </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <a
           href="https://github.com/anmol-heliverse"
@@ -57,7 +81,7 @@ function CurrentProjects() {
           className="tech-icon-anchor"
           style={{ color: "white" }}
         >
-          BTM
+          Green
         </a>
       </Col>
       
