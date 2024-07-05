@@ -8,6 +8,7 @@ function Type() {
         strings: [
           "Passionate Programmer",
           "MERN Stack Developer",
+          "Mobile App Developer",
           "Python Enthusiast",
           "React Native Developer",
           "Flutter Developer",

@@ -13,6 +13,7 @@ import blog from "../../Assets/project/Blog.png";
 import Foodies from "../../Assets/project/Foodies.png";
 import Batman from "../../Assets/project/Batman.png";
 import Python from "../../Assets/project/Python.png";
+import CurrentProjects from "../About/CurrentProject";
 
 function Projects() {
   return (
@@ -20,7 +21,13 @@ function Projects() {
       <Particle />
       <Container style={{ textAlign: "center" }}>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          <strong className="purple"> My</strong> Company
+          <strong className="purple"> Projects</strong>
+        </h1>
+        <CurrentProjects />
+
+        <h1 className="project-heading">
+          My <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -50,7 +57,7 @@ function Projects() {
             <ProjectCard
               imgPath={blog}
               isBlog={false}
-              title="Blog APP"
+              title="Blog App"
               description="The Blog App was created using  React,CSS, NodeJs and Mongodb in this app the blog is fetch from the backend. This is basically a clone of blog website created by Mern Stack contain blogs of food, technology and heath etc.This is completely responsive Website and also use a concept of hooks, redux and routes"
               link="https://anmol-design.github.io/TechnoBlog/"
             />

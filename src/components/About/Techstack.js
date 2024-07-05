@@ -17,6 +17,8 @@ import {
   DiSass
 } from "react-icons/di";
 
+import { SiFlutter, SiNextdotjs, SiNestjs } from "react-icons/si";
+
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -61,6 +63,15 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGoogleAnalytics />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFlutter />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <SiNextdotjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <SiNestjs />
       </Col>
     </Row>
   );
